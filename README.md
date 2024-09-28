@@ -2,7 +2,7 @@
 
 ## Running Apache APISIX with Docker Compose on Ubuntu
 
-To run **APISIX**, use the following Docker Compose command:
+To run **APISIX**, use the following docker compose command:
 
 ```bash
 sudo docker-compose up -d
